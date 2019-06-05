@@ -105,26 +105,7 @@
             "body" : "",
             "bg": "/img/screenshots/daniel-gustavoE-gustavoQ-alli.png",  
             "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
-        },
-        {
-            "title": "Stone Stark",
-            "body" : "Matheus",
-            "bg": "/img/screenshots/.png",  
-            "link": "games/intermediario/matheus/index.html"
-        },
-        {
-            "title": "Lucky and Leon",
-            "body" : "Theo e Sávio",
-            "bg": "/img/screenshots/.png",  
-            "link": "games/intermediario/savio-theo/index.html"
-        },
-        {
-            "title": "UpSchool!",
-            "body" : "Fernando e João",
-            "bg": "/img/screenshots/.png",  
-            "link": "games/intermediario/fernando-joao/index.html"
         }
-        
         
     ]
 }
