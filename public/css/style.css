@@ -15,15 +15,18 @@ h1{
 }
 #header{
     display: flex;
-    align-self: flex-end;
+    justify-content: space-evenly;
     top: 0;
     left: 0;
-    height: 100%;
-    background-image: url("/img/cover.jpeg");
+    background-image: url("");
     background-position: center center;
     background-size: 100% auto;
     
 }
 .card{
     margin: 0px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
 }

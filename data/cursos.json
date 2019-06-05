@@ -3,8 +3,13 @@
         {
             "title": "Barriga Mortal",
             "body": "Um Jogo de Carlos Games Épicos!",
-            "bg": "",
+            "bg": "/img/foto1",
             "link": "games/carlos/index.html"
+        },
+        {
+            "title": "Theo, Rafael, Nasser, Guilherme e Matheus",
+            "body" : "",
+            "link": "games/theo-rafael-nasser-guilherme-matheus/index.html"
         },
         {
             "title": "Princess Diet Run",
@@ -12,14 +17,29 @@
             "link": "games/ana-e-helena/index.html"
         },
         {
+            "title": "Mariana, Rian e Rafael",
+            "body" : "",
+            "link": "games/mariana-rian-rafael/index.html"
+        },
+        {
             "title": "Dino",
             "body" : "Guilherme e João",
             "link": "games/guilherme-joao/index.html"
         },
         {
+            "title": "Lutadores Contra a Má Alimentação",
+            "body" : "",
+            "link": "games/oliver-eric/index.html"
+        },
+        {
             "title": "Raposa",
             "body" : "Ismael e Luisa",
             "link": "games/ismael-luisa/index.html"
+        },
+        {
+            "title": "Felipe e Enrico",
+            "body" : "",
+            "link": "games/felipe-enrico/index.html"
         },
         {
             "title": "Poder das Mães",
@@ -31,10 +51,45 @@
             "body" : "",
             "link": "games/segunda/index.html"
         },
+        
         {
             "title": "Frutas Ultimato",
             "body" : "",
             "link": "games/sexta/index.html"
+        },
+        
+        {
+            "title": "Gabriel, Ricardo e Bernardo",
+            "body" : "",
+            "link": "games/gabriel-ricardo-bernardo/index.html"
+        },
+        
+        {
+            "title": "André Vitor",
+            "body" : "",
+            "link": "games/andreVitor/index.html"
+        },
+        {
+            "title": "Enzo e Thiago",
+            "body" : "",
+            "link": "games/enzo-thiago/index.html"
+        },
+        {
+            "title": "Daniel, João, Luis e Vitor",
+            "body" : "",
+            "link": "games/daniel-joao-luis-vitor/index.html"
+        },
+        {
+            "title": "Pietra e Carol",
+            "body" : "",
+            "link": "games/pietra-carol/index.html"
+        },
+        
+        {
+            "title": "Daniel, Gustavo E, Gustavo Q e Alli",
+            "body" : "",
+            "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
         }
+        
     ]
 }
