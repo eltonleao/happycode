@@ -1,11 +1,6 @@
 {
     "curso": [
-        {
-            "title": "Barriga Mortal",
-            "body": "Carlos Games Épicos!",
-            "bg": "/img/screenshots/barrigaMortal.png",
-            "link": "/games/carlos/index.html"
-        },
+        
         {
             "title": "Theo, Rafael, Nasser, Guilherme e Matheus",
             "body" : "",
@@ -105,6 +100,12 @@
             "body" : "",
             "bg": "/img/screenshots/daniel-gustavoE-gustavoQ-alli.png",  
             "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
+        },
+        {
+            "title": "Barriga Mortal",
+            "body": "Carlos Games Épicos!",
+            "bg": "/img/screenshots/barrigaMortal.png",
+            "link": "/games/carlos/index.html"
         }
         
     ]
