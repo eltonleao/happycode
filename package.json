@@ -1,28 +1,30 @@
 {
-  "name": "TillOfHelp",
+  "name": "happycode",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "host dos jogos dos alunos",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
     "express-session": "^1.15.6",
-    "mongoose": "^5.4.6"
+    "mongoose": "^5.4.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "test": "node app"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eltonleao/tillofhelp.git"
+    "url": "git+https://github.com/Eltonleao/happycode.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "happycodepetropolis"
+  ],
+  "author": "Elton Leão",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eltonleao/herokuNode/issues"
+    "url": "https://github.com/Eltonleao/happycode/issues"
   },
-  "homepage": "https://github.com/Eltonleao/tillofhelp#readme",
-  "description": ""
+  "homepage": "https://github.com/Eltonleao/happycode#readme"
 }
