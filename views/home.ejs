@@ -7,12 +7,13 @@
     <link rel="stylesheet" type="text/css" href="/css/materialize.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link rel="icon" href="/img/logo.png">
+    <title>HappyCodePetrópolis</title>
 </head>
 <body>
     
-            <div class="card-panel z-depth-3 green" id="header"><!--Header-->
+            <div class="card-panel z-depth-3  green lighten-1" id="header"><!--Header-->
                 
-                <img class="logo left" src="/img/logo.png" alt="">
+                <img class="logo" src="/img/logo.png" alt="">
 
                     <!--form id="search-container">
                       <div class="input-field center">
@@ -24,10 +25,17 @@
 
             <div class="container row">
                 <% cursos.curso.forEach(function(item){ %>
-                    <div class="card col s12 m4 hoverable medium z-depth-2"  style="background-image: url(<%=item.bg%>); background-position: center;">
-                        <div class="card-title"><h3 class="center"><%=item.title%></h3></div>
-                        <div class="card-content flow-text center"><%=item.body%></div>
-                        <div class="card-action center"><a class="btn hoverable green" href="<%=item.link%>" target="__blank">Jogar!</a></div>
+                    <div class="card col s12 m4 hoverable medium z-depth-2" style="background-image: url(<%=item.bg%>);">
+                        <div class="card-title green lighten-3 titulo">
+                            <h3 class="center"><%=item.title%></h3>
+                            <div class="card-content flow-text center"><%=item.body%></div>
+                        </div>
+                        
+                        
+                        <div class="card-action center">
+                            <a class="btn hoverable green" href="<%=item.link%>" target="__blank">Jogar!</a>
+                        </div>
+                        
                     </div>
                 <% }) %>
 
