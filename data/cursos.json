@@ -1,0 +1,40 @@
+{
+    "curso": [
+        {
+            "title": "Barriga Mortal",
+            "body": "Um Jogo de Carlos Games Épicos!",
+            "bg": "",
+            "link": "games/carlos/index.html"
+        },
+        {
+            "title": "Princess Diet Run",
+            "body": "Ana e Helena",
+            "link": "games/ana-e-helena/index.html"
+        },
+        {
+            "title": "Dino",
+            "body" : "Guilherme e João",
+            "link": "games/guilherme-joao/index.html"
+        },
+        {
+            "title": "Raposa",
+            "body" : "Ismael e Luisa",
+            "link": "games/ismael-luisa/index.html"
+        },
+        {
+            "title": "Poder das Mães",
+            "body" : "Artur, Daniel e Kayky",
+            "link": "games/artur-daniel-kayky/index.html"
+        },
+        {
+            "title": "Salada Suprema",
+            "body" : "",
+            "link": "games/segunda/index.html"
+        },
+        {
+            "title": "Frutas Ultimato",
+            "body" : "",
+            "link": "games/sexta/index.html"
+        }
+    ]
+}

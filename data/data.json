@@ -1,0 +1,6 @@
+{
+    "clientes":["anakin","oswaldo"],
+    "anakin":{
+        "cursos": ["power point", "mastering sabres de luz"]
+    }
+}

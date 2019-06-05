@@ -1,0 +1,391 @@
+<!DOCTYPE ejs>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" type="text/css" href="/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    type="text/css" rel="stylesheet">
+
+    <title>Testing Material.css</title>
+</head>
+<body style="overflow-x: hidden">
+    <div class="container">
+        <h1 class="center">Hello, Material Design!</h1>
+        <hr>
+        <h2 class="center">Colors!</h2>
+        <div class="black orange-text center">text</div>
+        <div class="blue white-text center"> text</div>
+        <div class="deep-purple white-text center"> text</div>
+        <div class="yellow white-text center"> text</div>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h2 class="center">Buttons!</h2>
+        <button class="btn">Button</button><br><br>
+        <button class="btn waves-effect waves-darken">Darken</button>
+        <button class="btn waves-effect waves-light">Light</button><br><br>
+        <button class="btn waves-effect waves-light">Light</button><br><br>
+        <button class="btn waves-effect waves-light disabled">Disabled</button>
+        <button class="btn waves-effect waves-light red">Colors</button><br><br>
+        <button class="btn waves-effect waves-light red">Colors</button>
+        <button class="btn waves-effect waves-light orange-text black">Colors</button>
+        <button class="btn waves-effect waves-light blue">Colors</button>
+        <button class="btn waves-effect waves-light orange black-text">Colors</button><br><br>
+        <button class="btn btn-large"><i class="material-icons left">add</i> Red more</button><br><br>
+        <a href="#" class="btn-floating btn-large red"><i class="material-icons">add</i></a>
+    <hr>
+
+    </div>
+
+    <div class="container center">
+        <h2>Helpers</h2>
+        <h3 class="right">Right</h3>
+        <h3 class="left">Left</h3>
+        <h3 class="center">Center</h3>
+
+        <h3 class="left">Left-inline</h3>
+        <h3 class="right">Left-inline</h3>
+        <h3 class="left">Lorem</h3>
+        <div class="clearfix"></div>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h2>Resize</h2>
+        <div class="hide">Hiden for all devices</div>
+        <div class="hide-on-small-only blue"><h5>Hiden for small devices</h5></div>
+        <div class="hide-on-med-only green" ><h5>Hiden for med devices</h5></div>
+        <div class="hide-on-large-only orange pulse"><h5>Hiden for Big devices</h5></div>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h2>Truncate</h2>
+        <h4 class="truncate">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, natus nihil. Ut totam autem dolorem tenetur, fuga voluptatibus quasi mollitia!</h4>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h2 class="pulse">hovareble and Pulse</h2>
+        <h4 class="hoverable blue white-text" style="cursor: pointer">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis, recusandae.</h4>
+        <h4 class="hoverable red white-text" style="cursor: pointer">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis, recusandae.</h4>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h2 class="hoverable z-depth-1 green">Depht</h2>
+        <h2 class="hoverable z-depth-2 blue">Depht</h2>
+        <h2 class="hoverable z-depth-3 black white-text">Depht</h2>
+        <h2 class="hoverable z-depth-4 orange">Depht</h2>
+        <h2 class="hoverable z-depth-5">Depht</h2>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h1>Float text</h1>
+        <p class="float-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae, magnam! Id doloremque doloribus voluptates ipsum facere eaque, eveniet libero aut.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non quas explicabo eaque maxime consequatur, alias minima totam suscipit error rem. amet, consectetur adipisicing elit. Aliquid dolorem suscipit totam possimus earum deleniti incidunt dolore veniam tenetur architecto?</p>
+        <hr>
+    </div>
+
+    <div class="container center">
+        <h1>Images</h1>
+
+        <img src="/img/img.jpg" class="responsive-img">
+        <img src="/img/img.jpg" class="responsive-img circle">
+        <img src="/img/img.jpg" class="responsive-img margin-2">
+        <hr>
+    </div>
+    <h1 class="center">Nav Menus!</h1>
+
+    <nav class="nav-wrapper black z-depth-5">
+        <a href="" class="brand-logo">logo</a>
+        <ul class="right hide-on-med-and-down">
+            <li><a href="">Home</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">contact</a></li>
+        </ul>
+    </nav>
+    <hr>
+
+    <ul id="dropdown1" class="dropdown-content">
+        <li><a class="black-text" href="">Link1</a></li>
+        <li><a class="black-text" href="">Link1</a></li>
+        <li><a class="black-text" href="">Link1</a></li>
+    </ul>
+    
+    <nav class="nav-wrapper blue z-depth-5">
+        <a href="" class="brand-logo">Logo</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a href="" >Home</a></li>
+            <li><a href="" class="dropdown-button btn" data-activates="dropdown1">Dropdown <i class="material-icons right">add</i></a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Contatc</a></li>
+        </ul>
+    </nav>
+    <hr>
+
+    <nav class="nav-wrapper orange z-depth-5">
+        <a href="" class="brand-logo">Logo</a>
+        <ul id="nav-mobile" class="right">
+            <li><a href="">Home</a></li>
+            <li><a href="" class="dropdown-button btn black white-text" data-activates="dropdown1">Dropdown</a></li>
+            <li><a href="">Home</a></li>
+        </ul>
+    </nav>
+    <hr>
+
+    <nav class="nav-wrapper red z-depth-5">
+        <form>
+            <div class="input-field">
+                <input type="search" id="search" required>
+                <label for="search" class="label-icon"><i class="material-icons">search</i></label>
+                <i class="material-icons">close</i>
+            </div>
+        </form>
+    </nav>
+
+    <hr>
+            <nav>
+            <div class="nav-wrapper">
+              <a href="#!" class="brand-logo">Logo</a>
+              <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+              <ul class="right hide-on-med-and-down">
+                <li><a href="sass.html">Sass</a></li>
+                <li><a href="badges.html">Components</a></li>
+                <li><a href="collapsible.html">Javascript</a></li>
+                <li><a href="mobile.html">Mobile</a></li>
+              </ul>
+            </div>
+          </nav>
+        
+          <ul class="sidenav" id="mobile-demo">
+            <li><a href="sass.html">Sass</a></li>
+            <li><a href="badges.html">Components</a></li>
+            <li><a href="collapsible.html">Javascript</a></li>
+            <li><a href="mobile.html">Mobile</a></li>
+          </ul>
+          <hr>
+
+          <div class="container">
+            <h1 class="center">Collections!</h1>
+
+            <ul class="collection">
+                <li class="collection-item">item</li>
+                <li class="collection-item">item</li>
+                <li class="collection-item">item</li>
+                <li class="collection-item">item</li>
+            </ul>
+
+            <div class="collection">
+                <a href="" class="collection-item">link</a>
+                <a href="" class="collection-item">link</a>
+                <a href="" class="collection-item">link</a>
+                <a href="" class="collection-item">link</a>
+            </div>
+
+            <ul class="collection with-header">
+                <li class="collection-item header"><h4 class="center">Header</h4></li>
+                <li class="collection-item">item</li>
+                <li class="collection-item">item</li>
+            </ul>
+
+            <h4  class="center">IconCollection</h4>
+            <ul class="collection">
+                <li class="collection-item avatar">
+                    <i class="material-icons circle blue">folder</i>
+                    <span class="title">Title</span>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                    <a href="" class="secondary-content"><i class="material-icons">grade</i></a>
+                </li>
+                <li class="collection-item avatar">
+                    <i class="material-icons circle red">grade</i>
+                    <span class="title">Title</span>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                    <a href="" class="secondary-content"><i class="material-icons">grade</i></a>
+                </li>
+            </ul>
+          <hr>
+
+          </div><!--Container-->
+
+          <div class="container">
+            <h1 class="center">Pagination!</h1>
+            <ul class="pagination center">
+                <li class="disabled"><a href=""><i class="material-icons">chevron_left</i></a></li>
+                <li class="active blue"><a href="">1</a></li>
+                <li class="waves-effect"><a href="">2</a></li>
+                <li class="waves-effect"><a href="">3</a></li>
+                <li class="waves-effect"><a href="">4</a></li>
+                <li class="disabled"><a href=""><i class="material-icons">chevron_right</i></a></li>
+            </ul>
+            <hr>
+          </div><!--Container---->
+
+          <div class="container">
+              <h1 class="center">breadcrumbs</h1>
+
+              <nav>
+                    <div class="nav-wrapper">
+                            <div class="col s12">
+                                <a href="" class="breadcrumb">First</a>
+                                <a href="" class="breadcrumb">Second</a>
+                                <a href="" class="breadcrumb">Third</a>
+                            </div>
+                        </div>
+              </nav>
+              <hr>
+          </div>
+
+          <div class="container">
+              <h1 class="center">Cards!</h1>
+
+                <div class="card">
+              <a id="card-btn" class="btn-floating halfway-fab waves-effect red"><i class="material-icons">add</i></a>
+              <div id="card" class="card blue-grey">
+                    <div class="card-content white-text">
+                        <span class="card-title">Title</span>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque nesciunt dolore odit porro, cumque sed earum? Provident quae odio aliquid.</p>
+                    </div>
+                </div>
+              </div>
+              <hr>
+              
+              <h1 class="center">Image Card</h1>
+              <div class="card small center">
+                  <div class="card-image">
+                      <img src="img/img.jpg">
+                      <span class="card-title black">Card Title</span>
+                  </div>
+                  <div class="card-content">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt asperiores deserunt ratione doloribus. Error corporis voluptatibus quasi numquam, provident totam!</p>
+                  </div>
+                  <div class="card-action">
+                      <a class="btn hoverable green waves-effect">Link</a>
+                      <a class="btn hoverable yellow waves-effect">Link</a>
+                      <a class="btn hoverable red waves-effect">Link</a>
+                  </div>
+              </div>
+
+              <div class="card horizontal small">
+                    <div class="card-image">
+                        <img src="img/img.jpg">
+                    </div>
+                    <div class="card-content">
+                            <span class="card-title">Card Title</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt asperiores deserunt ratione doloribus. Error corporis voluptatibus quasi numquam, provident totam!</p>
+                    </div>
+                    <div class="card-action">
+                        <a class="btn hoverable green waves-effect">Link</a>
+                        <a class="btn hoverable yellow waves-effect">Link</a>
+                        <a class="btn hoverable red waves-effect">Link</a>
+                    </div>
+                </div>
+                <hr>
+          </div><!--Container-->
+
+          <div class="container">
+              <h1 class="center"">Forms!</h1>
+            <form>
+              <div class="input-field">
+                  <input type="text" id="name" class="validate">
+                  <label for="name" class="">Name</label>
+              </div>
+              <div class="input-field">
+                  <input type="email" id="email" class="validate">
+                  <label for="email">Email</label>
+              </div>
+
+              <div class="input-field">
+                <textarea id="textarea" class="materialize-textarea"></textarea>
+                <label for="textadera">Send Your Message</label>
+              </div>
+            </form>
+          </div><!--Container---->
+
+          <div class="container">
+              <h1 class="center">Progress Bars</h1>
+
+              <div class="progress">
+                  <div class="determinate" style="width: 50%"></div>
+              </div>
+              <div class="progress">
+                    <div class="indeterminate"></div>
+              </div>
+          </div>
+          </div>
+
+         <div class="container">
+                <div class="preloader-wrapper big active">
+                        <div class="spinner-layer spinner-blue-only">
+                            <div class="circle-clipper left">
+                                <div class="circle"></div>
+                            </div>
+                        </div>
+                </div>
+               <hr>   
+         </div>
+
+        <div class="container">
+            <h1 class="center">Grid System</h1>
+
+            <div class="row">
+                <div class="col s1">
+                    <div class="card-panel grey hoverable"></div>
+                </div>
+                <div class="col s5">
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae, nisi.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                    <div class="col s8">
+                        <div class="card-panel blue">Lorem ipsum dolor sit amet.</div>
+                    </div>
+                    <div class="col s4">
+                        <div class="card-panel red">Lorem ipsum dolor sit amet.</div>
+                    </div>
+                </div>
+
+        <div class="row">
+            <div class="col s4"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et, nihil.</p></div>
+            <div class="col s4"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione itaque quaerat culpa minus excepturi molestias sint inventore quasi tempora voluptatum.</p></div>
+            <div class="col s4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi natus expedita repudiandae iste veniam recusandae amet, esse similique quos labore magni voluptates excepturi alias! Repellat repellendus ullam quo qui assumenda.</div>
+
+        </div>
+        </div><!---->
+
+        <div class="card-panel center hoverable z-depth-3">
+            <h1 >Just Like That ;)</h1>
+        </div>
+          
+
+
+    <!--foot-->
+    <div style="height: 500px"></div>
+    <div class="fixed-action-btn">
+            <a class="btn-floating btn-large red">
+              <i class="large material-icons">mode_edit</i>
+            </a>
+            <ul>
+              <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+              <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+              <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+              <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+            </ul>
+          </div>
+          
+    <script src="/js/jquery-v3.3.1.js"></script>
+    <script src="/js/materialize.js"></script>
+    <script>
+            jQuery('document').ready(function(){
+                jQuery('#card-btn').click(function(){
+                    jQuery('#card').slideToggle();
+                });
+            });
+         </script>
+</body>
+</html>
