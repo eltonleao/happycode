@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Eltonleao/happycode/issues"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "homepage": "https://github.com/Eltonleao/happycode#readme"
 }
