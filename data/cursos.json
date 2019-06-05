@@ -2,7 +2,7 @@
     "curso": [
         {
             "title": "Barriga Mortal",
-            "body": "Um Jogo de Carlos Games Épicos!",
+            "body": "Carlos Games Épicos!",
             "bg": "/img/screenshots/barrigaMortal.png",
             "link": "games/carlos/index.html"
         },
@@ -19,7 +19,7 @@
             "link": "games/ana-e-helena/index.html"
         },
         {
-            "title": "Mariana, Rian e Rafael",
+            "title": "Mariana, Ryan e Rafael",
             "body" : "",
             "bg": "/img/screenshots/mariana-rian-rafael.png",
             "link": "games/mariana-rian-rafael/index.html"
@@ -105,7 +105,26 @@
             "body" : "",
             "bg": "/img/screenshots/daniel-gustavoE-gustavoQ-alli.png",  
             "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
+        },
+        {
+            "title": "Stone Stark",
+            "body" : "Matheus",
+            "bg": "/img/screenshots/.png",  
+            "link": "games/intermediario/matheus/index.html"
+        },
+        {
+            "title": "Lucky and Leon",
+            "body" : "Theo e Sávio",
+            "bg": "/img/screenshots/.png",  
+            "link": "games/intermediario/savio-theo/index.html"
+        },
+        {
+            "title": "UpSchool!",
+            "body" : "Fernando e João",
+            "bg": "/img/screenshots/.png",  
+            "link": "games/intermediario/fernando-joao/index.html"
         }
+        
         
     ]
 }
