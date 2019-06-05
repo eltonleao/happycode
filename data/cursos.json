@@ -1,27 +1,32 @@
 {
     "curso": [
-        
         {
-            "title": "Theo, Rafael, Nasser, Guilherme e Matheus",
-            "body" : "",
+            "title": "UpSchool!",
+            "body" : "Fernando e João",
+            "bg": "",
+            "link": "games/fernando-joao/index.html"
+        },
+        {
+            "title": "Parkour Saudável",
+            "body" : "Theo, Rafael, Nasser, Guilherme e Matheus",
             "bg": "/img/screenshots/theo-rafael-nasser-guilherme-matheus.png",
             "link": "games/theo-rafael-nasser-guilherme-matheus/index.html"
         },
         {
             "title": "Princess Diet Run",
-            "body": "Ana e Helena",
+            "body": "Ana e Helena Deister",
             "bg": "/img/screenshots/princessDietRun.png",
             "link": "games/Ana-e-Helena/index.html"
         },
         {
-            "title": "Mariana, Ryan e Rafael",
-            "body" : "",
+            "title": "Desafio da Noite Saudável",
+            "body" : "Mariana, Ryan e Rafael",
             "bg": "/img/screenshots/mariana-rian-rafael.png",
             "link": "games/mariana-rian-rafael/index.html"
         },
         {
             "title": "Dino",
-            "body" : "Guilherme e João",
+            "body" : "Guilherme Hideki e João Cruz",
             "bg": "/img/screenshots/guilherme-joao.png",
             "link": "games/guilherme-joao/index.html"
         },
@@ -33,79 +38,78 @@
         },
         {
             "title": "Raposa",
-            "body" : "Ismael e Luisa",
+            "body" : "Ismael Pontes e Luisa Passe",
             "bg": "/img/screenshots/ismael-luisa.png",
             "link": "games/ismael-luisa/index.html"
         },
         {
-            "title": "Felipe e Enrico",
-            "body" : "",
+            "title": "Doritão",
+            "body" : "Felipe e Enrico",
             "bg": "/img/screenshots/felipe-enrico.png",
             "link": "games/felipe-enrico/index.html"
         },
         {
             "title": "Poder das Mães",
-            "body" : "Artur, Daniel e Kayky",
+            "body" : "Artur Reis, Daniel Ribeiro e Kayky Chaves",
             "bg": "/img/screenshots/artur-daniel-kayky.png",
             "link": "games/artur-daniel-kayky/index.html"
         },
         {
             "title": "Salada Suprema",
-            "body" : "",
+            "body" : "Arthur Paiva, Daniel Seabra, Mikael Roessler, Pedro Cirne e Pedro Pereira",
             "bg": "/img/screenshots/segunda.png",
             "link": "games/segunda/index.html"
         },
         
         {
             "title": "Frutas Ultimato",
-            "body" : "",
+            "body" : "Daniel Macedo, Miguel Nóbrega, Pedro Amaral, Thiago Labronici",
             "bg": "/img/screenshots/sexta.png",
             "link": "games/sexta/index.html"
         },
         
         {
-            "title": "Gabriel, Ricardo e Bernardo",
-            "body" : "",
+            "title": "Emagreça se puder",
+            "body" : "Gabriel, Ricardo e Bernardo",
             "bg": "/img/screenshots/gabriel-ricardo-bernardo.png",
             "link": "games/gabriel-ricardo-bernardo/index.html"
         },
-        
         {
-            "title": "André Vitor",
-            "body" : "",
+            "title": "Barriga Mortal",
+            "body": "Carlos Cardoso",
+            "bg": "/img/screenshots/barrigaMortal.png",
+            "link": "games/Carlos/index.html"
+        },
+        {
+            "title": "Combatendo a Má Digestão",
+            "body" : "André Vitor",
             "bg": "/img/screenshots/andreVitor.png",
             "link": "games/andreVitor/index.html"
         },
         {
-            "title": "Enzo e Thiago",
-            "body" : "",
+            "title": "Sonho Saudável",
+            "body" : "Enzo e Thiago",
             "bg": "/img/screenshots/enzo-thiago.png",
             "link": "games/enzo-thiago/index.html"
         },
         {
-            "title": "Daniel, João, Luis e Vitor",
-            "body" : "",
+            "title": "Adventure in Copacabana",
+            "body" : "Daniel, João, Luis e Vitor",
             "bg": "/img/screenshots/daniel-joao-luis-vitor.png",
             "link": "games/daniel-joao-luis-vitor/index.html"
         },
         {
-            "title": "Pietra e Carol",
-            "body" : "",
+            "title": "Mundo de Diversões Encantado",
+            "body" : "Pietra e Carol",
             "bg": "/img/screenshots/pietra-carol.png",
             "link": "games/pietra-carol/index.html"
         },
         
         {
-            "title": "Daniel, Gustavo E, Gustavo Q e Alli",
-            "body" : "",
+            "title": "Equipe Ultimato",
+            "body" : "Daniel, Gustavo E, Gustavo Q e Alli",
             "bg": "/img/screenshots/daniel-gustavoE-gustavoQ-alli.png",  
             "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
-        },
-        {
-            "title": "Barriga Mortal",
-            "body": "Carlos Games Épicos!",
-            "bg": "/img/screenshots/barrigaMortal.png",
-            "link": "games/Carlos/index.html"
         }
         
     ]
