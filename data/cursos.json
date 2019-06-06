@@ -104,6 +104,18 @@
             "body" : "Daniel Afonso, Gustavo Braga, Gustavo Santos e Alli Mohammad",
             "bg": "/img/screenshots/daniel-gustavoE-gustavoQ-alli.png",  
             "link": "games/daniel-gustavoE-gustavoQ-alli/index.html"
+        },
+        {
+            "title": "thais-duda",
+            "body" : "thais duda",
+            "bg": "/img/screenshots/thais-duda.png",  
+            "link": "games/thais-duda/index.html"
+        },
+        {
+            "title": "bmiloni-bschimitt-douglas",
+            "body" : "",
+            "bg": "/img/screenshots/bmiloni-bschimitt-douglas.png",  
+            "link": "games/bmiloni-bschimitt-douglas/index.html"
         }
 
     ]
