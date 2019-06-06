@@ -116,6 +116,19 @@
             "body" : "Sávio e Theo",
             "bg": "",
             "link": "games/intermediario/savio-theo/index.html"
+        },
+        {
+            "title": "Educational",
+            "body" : "Bernardo, Bernardo e Douglas",
+            "bg": "",
+            "link": "games/intermediario/bmiloni-bschimitt-douglas/index.html"
+        },
+        {
+            "title": "A Importância da Educação",
+            "body" : "Thais e Duda",
+            "bg": "",
+            "link": "games/intermediario/thais-duda/index.html"
         }
+
     ]
 }
