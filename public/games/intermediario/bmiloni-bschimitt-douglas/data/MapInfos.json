@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"2 entrada","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":2,"expanded":true,"name":"Biblioteca","order":2,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":3,"expanded":true,"name":"Sala de Aula","order":3,"parentId":2,"scrollX":712,"scrollY":409.3333333333333},
+{"id":4,"expanded":true,"name":"Educação Física","order":5,"parentId":1,"scrollX":712,"scrollY":553.3333333333334},
+{"id":5,"expanded":false,"name":"Corredor2","order":7,"parentId":6,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":6,"expanded":true,"name":"Corredor","order":6,"parentId":4,"scrollX":712,"scrollY":553.3333333333334},
+{"id":7,"expanded":false,"name":"Castigo","order":4,"parentId":3,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":8,"expanded":false,"name":"1 Cidade","order":10,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":9,"expanded":false,"name":"patio","order":9,"parentId":4,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":10,"expanded":false,"name":"Sala do Diretor","order":8,"parentId":6,"scrollX":722.6666666666666,"scrollY":406.6666666666667}
+]

@@ -109,20 +109,13 @@
             "title": "UpSchool!",
             "body" : "Fernando e João",
             "bg": "",
-            "link": "games/fernando-joao/index.html"
+            "link": "games/intermediario/fernando-joao/index.html"
         },
         {
             "title": "Lucky e Leon",
             "body" : "Sávio e Theo",
             "bg": "",
-            "link": "games/savio-theo/index.html"
-        },
-        {
-            "title": "Lucky e Leon",
-            "body" : "Sávio e Theo",
-            "bg": "",
-            "link": "games/savio-theo/index.html"
+            "link": "games/intermediario/savio-theo/index.html"
         }
-        
     ]
 }
