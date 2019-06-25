@@ -1,6 +1,18 @@
 {
     "curso": [
         {
+            "title": "Salve os Legumes, Ninja",
+            "body" : "Leônidas Rocha e Eduardo Carvalho",
+            "bg": "/img/screenshots/Eduardo-Leonidas.png",
+            "link": "games/Eduardo-Leonidas/index.html"
+        },
+        {
+            "title": "As Aventuras do Ninja",
+            "body" : "Matheus Tavares, Paulo Neto e Francisco Melo",
+            "bg": "/img/screenshots/matheus-paulo-francisco.png",
+            "link": "games/matheus-paulo-francisco/index.html"
+        },
+        {
             "title": "Parkour Saudável",
             "body" : "Theo Gomes, Rafael Camargo, Nasser El Ghaoui, Guilherme Blanc e Matheus Santos",
             "bg": "/img/screenshots/theo-rafael-nasser-guilherme-matheus.png",
